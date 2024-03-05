@@ -6,4 +6,4 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-versioned-binary-serialization = { git = "https://github.com/EspressoSystems/versioned-binary-serialization.git", branch = "main" }
+versioned-binary-serialization = { git = "https://github.com/EspressoSystems/versioned-binary-serialization.git", tag = "0.1.0" }
