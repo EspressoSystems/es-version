@@ -1,4 +1,4 @@
-use versioned_binary_serialization::version::StaticVersion;
+use vbs::version::StaticVersion;
 
 pub const MAJOR: u16 = 0;
 pub const MINOR: u16 = 1;
